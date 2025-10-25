@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="black">#5FC3E4</color>
+    <color name="black_222222">#ff222222</color>
+    <color name="blue_00ade6">#ff00ade6</color>
+
+    <color name="cb_background">#fff6f6f6</color>
+    <color name="cb_blue_button">#ff368ecd</color>
+    <color name="cb_blue_button_light">#ff368ecf</color>
+    <color name="cb_border">#ffd4dee2</color>
+    <color name="cb_border_color">#ff333333</color>
+    <color name="cb_dark_blue_button">#ff094774</color>
+    <color name="cb_dark_grey">#ff464646</color>
+    <color name="cb_divider_color">#ffe7e7e7</color>
+    <color name="cb_errorRed">#ffe40000</color>
+    <color name="cb_grey">#ffe9e7e7</color>
+    <color name="cb_heading_color">#ff212529</color>
+    <color name="cb_input_gray">#ffdee6e6</color>
+    <color name="cb_item_color">#ff4a4a4a</color>
+    <color name="cb_nb_background">#ff3a3434</color>
+    <color name="cb_nb_button">#ff615c5c</color>
+    <color name="cb_or_color">#ff9c9c9c</color>
+    <color name="cb_otpColor">#ff368ecd</color>
+    <color name="cb_otpDisabledColor">#ff7d88b3</color>
+    <color name="cb_otpDisabledTextColor">#ffbec4d9</color>
+    <color name="cb_otpReceivedColor">#ff769b12</color>
+    <color name="cb_payu_blue">#ff368ecd</color>
+    <color name="cb_progress_bar_color">#ff007bff</color>
+    <color name="cb_textColor">#ff8f8d8d</color>
+    <color name="cb_verify_color">#ff0077ff</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="colorBackgroundPrimary">#fff5f5f5</color>
+    <color name="colorBrandPrimary">#ff673ab7</color>
+    <color name="colorButtonBrandFillDisabled">@color/colorFillDisabled</color>
+    <color name="colorButtonBrandText">@android:color/white</color>
+    <color name="colorButtonBrandTextDisabled">@color/colorTextDisabled</color>
+    <color name="colorButtonBrandTextFocused">@android:color/white</color>
+    <color name="colorButtonBrandTextPressed">@android:color/white</color>
+    <color name="colorFillDisabled">#ffd6d6db</color>
+    <color name="colorFillHint">#ffb0b1bb</color>
+    <color name="colorFillPrimary">#ff3e4152</color>
+    <color name="colorFillSecondary">#ff7e818c</color>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="colorText">#ff212121</color>
+    <color name="colorTextDisabled">@color/colorFillHint</color>
+    <color name="colorTextPrimary">@color/colorFillPrimary</color>
+    <color name="colorTextSecondary">@color/colorFillSecondary</color>
+    <color name="color_00b9f5">#ff00baf2</color>
+    <color name="color_1f5af6">#ff1f5af6</color>
+    <color name="color_8f9dbd">#ff8f9dbd</color>
+    <color name="color_e0e9ff">#ffe0e9ff</color>
+    <color name="color_green_ic_radio_button_checked">#ff4caf50</color>
+    <color name="com_facebook_blue">#ff1877f2</color>
+
+    <color name="com_smart_login_code">#ff3c6499</color>
+
+    <color name="cpv_default_color">#ff2196f3</color>
+
+    <color name="dummy">#00000000</color>
+
+    <color name="full_black">#ff000000</color>
+    <color name="gray_444444">#ff444444</color>
+    <color name="gray_666666">#ff666666</color>
+    <color name="gray_686868">#ff686868</color>
+    <color name="gray_8ba6c1">#ff8ba6c1</color>
+    <color name="green">#ff44b506</color>
+    <color name="grey_back">#ff7c7b7b</color>
+
+    <color name="main">#ffffab00</color>
+
+    <color name="overlay_dark_10">#1a000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4d000000</color>
+    <color name="paytm_blue">#ff00baf2</color>
+    <color name="paytm_dark_blue">#ff012b72</color>
+    <color name="payu_add_icon">#ff2e2e2e</color>
+    <color name="payu_color_000000">#ff000000</color>
+    <color name="payu_color_000049">#ff000049</color>
+    <color name="payu_color_0065ff">#ff0065ff</color>
+    <color name="payu_color_00CCCCCC">#00cccccc</color>
+    <color name="payu_color_0439bd">#ff0439bd</color>
+    <color name="payu_color_053bc1">#ff053bc1</color>
+    <color name="payu_color_0D1B2E">#ff0d1b2e</color>
+    <color name="payu_color_0d1b2e">#ff0d1b2e</color>
+    <color name="payu_color_10CCCCCC">#10cccccc</color>
+    <color name="payu_color_111111">#ff111111</color>
+    <color name="payu_color_20CCCCCC">#20cccccc</color>
+    <color name="payu_color_30CCCCCC">#30cccccc</color>
+    <color name="payu_color_338f9dbd">#338f9dbd</color>
+    <color name="payu_color_36b37e">#ff36b37e</color>
+    <color name="payu_color_383838">#ff383838</color>
+    <color name="payu_color_50000000">#50000000</color>
+    <color name="payu_color_50CCCCCC">#50cccccc</color>
+    <color name="payu_color_7b7b7b">#ff7b7b7b</color>
+    <color name="payu_color_80000000">#80000000</color>
+    <color name="payu_color_8f9dbd">#ff8f9dbd</color>
+    <color name="payu_color_979797">#ff979797</color>
+    <color name="payu_color_999999">#ff999999</color>
+    <color name="payu_color_d2d2d2">#ffd2d2d2</color>
+    <color name="payu_color_de350b">#ffde350b</color>
+    <color name="payu_color_e6edff">#ffe6edff</color>
+    <color name="payu_color_e6ffffff">#e6ffffff</color>
+    <color name="payu_color_f9fafe">#fff9fafe</color>
+    <color name="payu_color_ffab00">#ffffab00</color>
+    <color name="payu_color_ffffff">#ffffffff</color>
+    <color name="payu_icon_color">#ff8f9dbd</color>
+    <color name="payu_otp_assist_disable_color">#ffcbcbcb</color>
+    <color name="payu_otp_assist_primary_color">#fffd416d</color>
+    <color name="payu_tooltip_color">#ff434343</color>
+    <color name="payu_tooltip_text">#ffffffff</color>
+    <color name="ph_colorAccent">@color/colorBrandPrimary</color>
+    <color name="ph_colorPrimary">#ff2a2c43</color>
+    <color name="ph_colorPrimaryDark">#ff242539</color>
+    <color name="ph_textColor">@color/colorTextPrimary</color>
+    <color name="ph_textColorAccent">@color/colorBackgroundPrimary</color>
+    <color name="phone_pe_gradient_end_color">#ff512da8</color>
+    <color name="phone_pe_gradient_start_color">#ff673ab7</color>
+    <color name="pressed_bg">#64b7b7b7</color>
+
+    <color name="submit_easy_pay">#ff00b9f5</color>
+
+    <color name="theme_color_dark">#ff002e6e</color>
+    <color name="tooltip_background_dark">#e6616161</color>
+    <color name="tooltip_background_light">#e6ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_b8c2cb">#ffb8c2cb</color>
+    <color name="white_eceff1">#ffeceff1</color>
+    <color name="white_smoke">#fff5f5f5</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#fff</color>
+
+    <color name="grey_lighter">#E0E0E0</color>
+    <color name="grey_light">#9E9E9E</color>
+    <color name="grey_dark">#424242</color>
+    <color name="red">#F44336</color>
+    <color name="red_dark">#D32F2F</color>
+    <color name="blue_light">#03A9F4</color>
+    <color name="blue">#1E88E5</color>
+    <color name="blue_dark">#01579B</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+
+    <style name="AppTheme.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.NoActionBar" parent="@style/AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Overflow" parent="@style/AppTheme">
+        <item name="android:src">@null</item>
+    </style>
+
+
+    <style name="Theme.BoomMovies" parent="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+
+    <style name="Theme.MaterialComponents.Light.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.Light.Bridge">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MaterialComponents.Light.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Bridge" />
+</resources>
